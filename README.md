@@ -1,0 +1,1 @@
+A collection of random sniplets, that are nice for live coding
